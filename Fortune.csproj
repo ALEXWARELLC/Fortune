@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net4.8</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EXILED" Version="8.4.1" />
+  </ItemGroup>
+
+</Project>
